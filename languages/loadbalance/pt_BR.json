@@ -2,5 +2,16 @@
     "name": "Portuguese",
     "code": "pt_BR",
     "server": "loadbalance",
-    "version": "0.0.1",
+    "version": "0.0.2",
+    "messages": {
+
+    "queue": {
+      "joinqueue": "Você entrou na fila para o servidor lobby ({0}/{1})",
+      "quitqueue": "Você saiu da fila para o servidor lobby.",
+      "inqueue": "Você está na posição {0}/{1} da fila!",
+      "successqueue": "Conectando ao servidor...",
+      "errorqueue": "Nenhum servidor lobby disponível no momento."
+    }
+
+  }
 }

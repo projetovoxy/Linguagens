@@ -1,0 +1,16 @@
+{
+    "Membro": {
+        "format": "{PLAYER}: {MESSAGE}",
+        "display": "{PLAYER}",
+        "permissions": [
+            "membro.util"
+        ]
+    },
+    "VIP": {
+        "format": "[VIP] {PLAYER}: {MESSAGE}",
+        "display": "[VIP] {PLAYER}",
+        "permissions": [
+            "vip.util"
+        ]
+    }
+}

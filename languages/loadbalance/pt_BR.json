@@ -1,0 +1,6 @@
+{
+    "name": "Portuguese",
+    "code": "pt_BR",
+    "server": "loadbalance",
+    "version": "0.0.1",
+}

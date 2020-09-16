@@ -1,0 +1,6 @@
+{
+    "name": "English",
+    "code": "en_US",
+    "server": "loadbalance",
+    "version": "0.0.1",
+}

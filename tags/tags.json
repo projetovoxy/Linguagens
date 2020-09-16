@@ -6,11 +6,102 @@
             "membro.util"
         ]
     },
+    "Apoiador": {
+        "format": "[Apoiador] {PLAYER}: {MESSAGE}",
+        "display": "[Apoiador] {PLAYER}",
+        "permissions": [
+            "apoiador.util"
+        ]
+    }
     "VIP": {
         "format": "[VIP] {PLAYER}: {MESSAGE}",
         "display": "[VIP] {PLAYER}",
         "permissions": [
             "vip.util"
+        ]
+    }
+    "VIP+": {
+        "format": "[VIP+] {PLAYER}: {MESSAGE}",
+        "display": "[VIP+] {PLAYER}",
+        "permissions": [
+            "vip+.util"
+        ]
+    }
+    "MVP": {
+        "format": "[MVP] {PLAYER}: {MESSAGE}",
+        "display": "[MVP] {PLAYER}",
+        "permissions": [
+            "mvp.util"
+        ]
+    }
+    "MVP+": {
+        "format": "[MVP+] {PLAYER}: {MESSAGE}",
+        "display": "[MVP+] {PLAYER}",
+        "permissions": [
+            "mvp+.util"
+        ]
+    }
+    "MiniYT": {
+        "format": "[MiniYT] {PLAYER}: {MESSAGE}",
+        "display": "[MiniYT] {PLAYER}",
+        "permissions": [
+            "miniyt.util"
+        ]
+    }
+    "Youtuber": {
+        "format": "[YT] {PLAYER}: {MESSAGE}",
+        "display": "[YT] {PLAYER}",
+        "permissions": [
+            "youtuber.util"
+        ]
+    }
+    "Jornalista": {
+        "format": "[Jornalista] {PLAYER}: {MESSAGE}",
+        "display": "[Jornalista] {PLAYER}",
+        "permissions": [
+            "jornalista.util"
+        ]
+    }
+    "Ajudante": {
+        "format": "[Ajudante] {PLAYER}: {MESSAGE}",
+        "display": "[Ajudante] {PLAYER}",
+        "permissions": [
+            "ajudante.util"
+        ]
+    }
+    "Trial": {
+        "format": "[Trial] {PLAYER}: {MESSAGE}",
+        "display": "[Trial] {PLAYER}",
+        "permissions": [
+            "staff.util"
+        ]
+    }
+    "Moderador": {
+        "format": "[Moderador] {PLAYER}: {MESSAGE}",
+        "display": "[Moderador] {PLAYER}",
+        "permissions": [
+            "staff.util"
+        ]
+    }
+    "Administrador": {
+        "format": "[Administrador] {PLAYER}: {MESSAGE}",
+        "display": "[Administrador] {PLAYER}",
+        "permissions": [
+            "staff.util"
+        ]
+    }
+    "Gerente": {
+        "format": "[Gerente] {PLAYER}: {MESSAGE}",
+        "display": "[Gerente] {PLAYER}",
+        "permissions": [
+            "staff.util"
+        ]
+    }
+    "CEO": {
+        "format": "[CEO] {PLAYER}: {MESSAGE}",
+        "display": "[CEO] {PLAYER}",
+        "permissions": [
+            "staff.util"
         ]
     }
 }

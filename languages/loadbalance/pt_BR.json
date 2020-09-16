@@ -9,7 +9,8 @@
       "title": "Qual?",
       "content": "Selecione em qual local você deseja ir!",
       "format": "{place}\nClique para ir!",
-      "successnpc": "Você foi teleportado para a {place}."
+      "successnpc": "Você foi teleportado para a {place}.",
+      "libraryplace": "Biblioteca"
     },
 
     "queue": {

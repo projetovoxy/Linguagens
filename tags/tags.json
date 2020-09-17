@@ -20,7 +20,7 @@
             "vip.util"
         ]
     },
-    "VIP+": {
+    "VIPm": {
         "format": "[VIP+] {PLAYER}: {MESSAGE}",
         "display": "[VIP+] {PLAYER}",
         "permissions": [
@@ -34,7 +34,7 @@
             "mvp.util"
         ]
     },
-    "MVP+": {
+    "MVPm": {
         "format": "[MVP+] {PLAYER}: {MESSAGE}",
         "display": "[MVP+] {PLAYER}",
         "permissions": [

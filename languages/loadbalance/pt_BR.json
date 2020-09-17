@@ -5,6 +5,11 @@
     "version": "0.0.3",
     "messages": {
         
+    
+    "hotbar": {
+      "jump_the_queue": "Entrar instantaneamente no servidor"
+    },
+        
     "npc": {
       "title": "Qual?",
       "content": "Selecione em qual local você deseja ir!",
@@ -27,6 +32,7 @@
     "soon": "O servidor encontra-se em desenvolvimento, em breve estará disponivel a todos.",
     "action_try_again": "Não foi possivel realizar está ação, tente novamente.",
     "system_in_developement": "Este sistema atualmente encontra-se em desenvolvimento.",
-    "information_text": "Rede Voxy\nVocê está no FILA-1\n-\nSiga-nos no Twitter\n@RedeVoxy\n-\nParticipe do nosso Discord\ndiscord.gg/voxy\n-\nVisite nosso site em\nredevoxy.com\npara adquirir\nVIPs e mais"
+    "information_text": "Rede Voxy\nVocê está no FILA-1\n-\nSiga-nos no Twitter\n@RedeVoxy\n-\nParticipe do nosso Discord\ndiscord.gg/voxy\n-\nVisite nosso site em\nredevoxy.com\npara adquirir\nVIPs e mais",
+    "information_vip": "Você pode entrar instantaneamente no servidor lobby (clique na bola de slime para conectar-se)."
   }
 }

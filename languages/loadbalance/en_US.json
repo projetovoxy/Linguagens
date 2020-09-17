@@ -1,37 +1,47 @@
 {
-   "name":"English",
-   "code":"en_US",
-   "server":"loadbalance",
-   "version":"0.0.1",
-   "messages":{
+    "name": "English",
+    "code": "en_US",
+    "server": "loadbalance",
+    "version": "0.0.2",
+    "messages": {
+        
+    "hotbar": {
+      "jump_the_queue": "Instantly log on to the server"
+    },
+        
+    "npc": {
+      "title":"Which?",
+      "content":"Select where you want to go!",
+      "format":"{place}nClick to go!",
+      "successnpc":"You have been teleported to {place}.",
+      "libraryplace":"Library"
+    },
 
-      "hotbar":{
-         "jump_the_queue":"Instantly log on to the server"
-      },
+    "queue": {
+      "joinqueue":"You have joined the queue for the lobby server ({0}/{1})",
+      "quitqueue":"You left the queue for the lobby server.",
+      "inqueue":"You are in the {0}/{1} the queue!",
+      "successqueue":"Connecting to server...",
+      "errorqueue":"No lobby server currently available."
+    },
 
-      "npc":{
-         "title":"Which?",
-         "content":"Select where you want to go!",
-         "format":"{place}nClick to go!",
-         "successnpc":"You have been teleported to {place}.",
-         "libraryplace":"Library"
-      },
-
-      "queue":{
-         "joinqueue":"You have joined the queue for the lobby server ({0}/{1})",
-         "quitqueue":"You left the queue for the lobby server.",
-         "inqueue":"You are in the {0}/{1} the queue!",
-         "successqueue":"Connecting to server...",
-         "errorqueue":"No lobby server currently available."
-      },
-      "chat_disabled":"You cannot talk in chat or execute commands on the Load Balancing server.",
-      "isHere":"You are already on this server.",
-      "maintenance":"The server is under maintenance, try again later.",
-      "offline":"The server is offline, try again later.",
-      "soon":"The server is in development, will soon be available to everyone.",
-      "action_try_again":"Could not perform this action, try again.",
-      "system_in_developement":"This system is currently under development.",
-      "information_text":"Voxy Network\nYou are on FILA-1n-\nFollow us on Twitter\n@RedeVoxy\n-\nJoin our Discordn\\discord.gg/voxy\n-n\\Visit our website at\nredevoxy.com\nto purchasenVIPs and more",
-      "information_vip":"You can instantly enter the lobby server (click the slime ball to connect)."
-   }
+    "rank": {
+      "permission_information": "Você deve ser Gerente ou superior para utilizar este comando.",
+      "erro_args": "O nick ou rank não foram definidos.",
+      "erro_numeric": "O valor do rank deve ser númerico.",
+      "erro_player": "Jogador não esta online no servidor.",
+      "user_info": "Utilize /rank <jogador> <número>.",
+      "successcommand": "Você mudou o rank do jogador {player}.",
+      "change": "Seu rank foi alterado.\n * Entre novamente no servidor para receber todas as permissões corretamente."
+    },
+    "chat_disabled":"You cannot talk in chat or execute commands on the Load Balancing server.",
+    "isHere":"You are already on this server.",
+    "maintenance":"The server is under maintenance, try again later.",
+    "offline":"The server is offline, try again later.",
+    "soon":"The server is in development, will soon be available to everyone.",
+    "action_try_again":"Could not perform this action, try again.",
+    "system_in_developement":"This system is currently under development.",
+    "information_text":"Voxy Network\nYou are on FILA-1\n-\nFollow us on Twitter\n@RedeVoxy\n-\nJoin our Discordn\ndiscord.gg/voxy\n-\nVisit our website at\nredevoxy.com\nto purchasenVIPs and more",
+    "information_vip":"You can instantly enter the lobby server (click the slime ball to connect)."
+  }
 }

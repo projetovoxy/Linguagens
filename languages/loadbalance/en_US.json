@@ -26,13 +26,13 @@
     },
 
     "rank": {
-      "permission_information": "Você deve ser Gerente ou superior para utilizar este comando.",
-      "erro_args": "O nick ou rank não foram definidos.",
-      "erro_numeric": "O valor do rank deve ser númerico.",
-      "erro_player": "Jogador não esta online no servidor.",
-      "user_info": "Utilize /rank <jogador> <número>.",
-      "successcommand": "Você mudou o rank do jogador {player}.",
-      "change": "Seu rank foi alterado.\n * Entre novamente no servidor para receber todas as permissões corretamente."
+      "permission_information": "You must be a manager or higher to be able to use this command.",
+      "erro_args": "The nick/rank has not been set yet.",
+      "erro_numeric": "The rank´s value must be numerical.",
+      "erro_player": "The player is not online in the server.",
+      "user_info": "Use /rank <player> <numeric>.",
+      "successcommand": "You have changed {player}´s rank.",
+      "change": "Your rank has been changed.\n * Join the server again to receive all of the following permissions correctly."
     },
     "chat_disabled":"You cannot talk in chat or execute commands on the Load Balancing server.",
     "isHere":"You are already on this server.",

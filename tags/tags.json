@@ -1,105 +1,105 @@
 {
     "Membro": {
-        "format": "{PLAYER}: {MESSAGE}",
-        "display": "{PLAYER}",
+        "format": "§7{PLAYER}: §f{MESSAGE}",
+        "display": "§7{PLAYER}",
         "permissions": [
             "membro.util"
         ]
     },
     "Apoiador": {
-        "format": "[Apoiador] {PLAYER}: {MESSAGE}",
-        "display": "[Apoiador] {PLAYER}",
+        "format": "§e[Apoiador] {PLAYER}: §f{MESSAGE}",
+        "display": "§e[Apoiador] {PLAYER}",
         "permissions": [
             "apoiador.util"
         ]
     },
     "VIP": {
-        "format": "[VIP] {PLAYER}: {MESSAGE}",
-        "display": "[VIP] {PLAYER}",
+        "format": "§a[VIP] {PLAYER}: §f{MESSAGE}",
+        "display": "§a[VIP] {PLAYER}",
         "permissions": [
             "vip.util"
         ]
     },
     "VIPm": {
-        "format": "[VIP+] {PLAYER}: {MESSAGE}",
-        "display": "[VIP+] {PLAYER}",
+        "format": "§9[VIP§c+§9] {PLAYER}: §f{MESSAGE}",
+        "display": "§9[VIP§c+§9] {PLAYER}",
         "permissions": [
             "vip+.util"
         ]
     },
     "MVP": {
-        "format": "[MVP] {PLAYER}: {MESSAGE}",
-        "display": "[MVP] {PLAYER}",
+        "format": "§b[MVP] {PLAYER}: §f{MESSAGE}",
+        "display": "§b[MVP] {PLAYER}",
         "permissions": [
             "mvp.util"
         ]
     },
     "MVPm": {
-        "format": "[MVP+] {PLAYER}: {MESSAGE}",
-        "display": "[MVP+] {PLAYER}",
+        "format": "§6[MVP§c+§6] {PLAYER}: §f{MESSAGE}",
+        "display": "§6[MVP§c+§6] {PLAYER}",
         "permissions": [
             "mvp+.util"
         ]
     },
     "MiniYT": {
-        "format": "[MiniYT] {PLAYER}: {MESSAGE}",
-        "display": "[MiniYT] {PLAYER}",
+        "format": "§d[MiniYT] {PLAYER}: §f{MESSAGE}",
+        "display": "§d[MiniYT] {PLAYER}",
         "permissions": [
             "miniyt.util"
         ]
     },
     "Youtuber": {
-        "format": "[YT] {PLAYER}: {MESSAGE}",
-        "display": "[YT] {PLAYER}",
+        "format": "§c[YT] {PLAYER}: §f{MESSAGE}",
+        "display": "§c[YT] {PLAYER}",
         "permissions": [
             "youtuber.util"
         ]
     },
     "Jornalista": {
-        "format": "[Jornalista] {PLAYER}: {MESSAGE}",
-        "display": "[Jornalista] {PLAYER}",
+        "format": "§9[Jornalista] {PLAYER}: §f{MESSAGE}",
+        "display": "§9[Jornalista] {PLAYER}",
         "permissions": [
             "jornalista.util"
         ]
     },
     "Ajudante": {
-        "format": "[Ajudante] {PLAYER}: {MESSAGE}",
-        "display": "[Ajudante] {PLAYER}",
+        "format": "§a[Ajudante] {PLAYER}: §f{MESSAGE}",
+        "display": "§a[Ajudante] {PLAYER}",
         "permissions": [
             "ajudante.util"
         ]
     },
     "Trial": {
-        "format": "[Trial] {PLAYER}: {MESSAGE}",
-        "display": "[Trial] {PLAYER}",
+        "format": "§3[Trial] {PLAYER}: §f{MESSAGE}",
+        "display": "§3[Trial] {PLAYER}",
         "permissions": [
             "staff.util"
         ]
     },
     "Moderador": {
-        "format": "[Moderador] {PLAYER}: {MESSAGE}",
-        "display": "[Moderador] {PLAYER}",
+        "format": "§2[Moderador] {PLAYER}: §f{MESSAGE}",
+        "display": "§2[Moderador] {PLAYER}",
         "permissions": [
             "staff.util"
         ]
     },
     "Administrador": {
-        "format": "[Administrador] {PLAYER}: {MESSAGE}",
-        "display": "[Administrador] {PLAYER}",
+        "format": "§c[Administrador] {PLAYER}: §f{MESSAGE}",
+        "display": "§c[Administrador] {PLAYER}",
         "permissions": [
             "staff.util"
         ]
     },
     "Gerente": {
-        "format": "[Gerente] {PLAYER}: {MESSAGE}",
-        "display": "[Gerente] {PLAYER}",
+        "format": "§4[Gerente] {PLAYER}: §f{MESSAGE}",
+        "display": "§4[Gerente] {PLAYER}",
         "permissions": [
             "staff.util"
         ]
     },
     "CEO": {
-        "format": "[CEO] {PLAYER}: {MESSAGE}",
-        "display": "[CEO] {PLAYER}",
+        "format": "§6[CEO] {PLAYER}: §f{MESSAGE}",
+        "display": "§6[CEO] {PLAYER}",
         "permissions": [
             "staff.util"
         ]

@@ -22,7 +22,7 @@
       "quitqueue":"You left the queue for the lobby server.",
       "inqueue":"You are in the {0}/{1} the queue!",
       "successqueue":"Connecting to server...",
-      "errorqueue":"No lobby server currently available."
+      "errorqueue":"No lobby server currently available. (Teste)"
     },
 
     "rank": {

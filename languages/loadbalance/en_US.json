@@ -6,42 +6,42 @@
     "messages": {
         
     "hotbar": {
-      "jump_the_queue": "Instantly log on to the server"
+      "jump_the_queue": "§r§dInstantly log on to the server"
     },
         
     "npc": {
       "title":"Which?",
-      "content":"Select where you want to go!",
-      "format":"{place}nClick to go!",
-      "successnpc":"You have been teleported to {place}.",
-      "libraryplace":"Library"
+      "content":"§r§fSelect where you want to go!",
+      "format":"{place}\n§r§8Click to go!",
+      "successnpc":"§r§eYou have been teleported to {place}§e.",
+      "libraryplace":"§r§dLibrary"
     },
 
     "queue": {
-      "joinqueue":"You have joined the queue for the lobby server ({0}/{1})",
-      "quitqueue":"You left the queue for the lobby server.",
-      "inqueue":"You are in the {0}/{1} the queue!",
-      "successqueue":"Connecting to server...",
-      "errorqueue":"No lobby server currently available."
+      "joinqueue":"§r§eYou have joined the queue for the lobby server §d({0}/{1})",
+      "quitqueue":"§r§cYou left the queue for the lobby server.",
+      "inqueue":"§r§eYou are in the §d{0}/{1} §ethe queue!",
+      "successqueue":"§r§cConnecting to server...",
+      "errorqueue":"§r§cNo lobby server currently available."
     },
 
     "rank": {
-      "permission_information": "You must be a manager or higher to be able to use this command.",
-      "erro_args": "The nick/rank has not been set yet.",
-      "erro_numeric": "The rank´s value must be numerical.",
-      "erro_player": "The player is not online in the server.",
-      "user_info": "Use /rank <player> <numeric>.",
-      "successcommand": "You have changed {player}´s rank.",
-      "change": "Your rank has been changed.\n * Join the server again to receive all of the following permissions correctly."
+      "permission_information": "§r§cYou must be a manager or higher to be able to use this command.",
+      "erro_args": "§r§cThe nick/rank has not been set yet.",
+      "erro_numeric": "§r§cThe rank´s value must be numerical.",
+      "erro_player": "§r§cThe player is not online in the server.",
+      "user_info": "§r§cUse /rank <player> <numeric>.",
+      "successcommand": "§r§eYou have changed §7{player}´s §erank.",
+      "change": "§r§eYour rank has been changed.\n§e * Join the server again to receive all of the following permissions correctly."
     },
-    "chat_disabled":"You cannot talk in chat or execute commands on the Load Balancing server.",
-    "isHere":"You are already on this server.",
-    "maintenance":"The server is under maintenance, try again later.",
-    "offline":"The server is offline, try again later.",
-    "soon":"The server is in development, will soon be available to everyone.",
-    "action_try_again":"Could not perform this action, try again.",
-    "system_in_developement":"This system is currently under development.",
-    "information_text":"Voxy Network\nYou are on FILA-1\n-\nFollow us on Twitter\n@RedeVoxy\n-\nJoin our Discordn\ndiscord.gg/voxy\n-\nVisit our website at\nredevoxy.com\nto purchasenVIPs and more",
-    "information_vip":"You can instantly enter the lobby server (click the slime ball to connect)."
+    "chat_disabled":"§r§cYou cannot talk in chat or execute commands on the Load Balancing server.",
+    "isHere":"§r§eYou are already on this server.",
+    "maintenance":"§r§cThe server is under maintenance, try again later.",
+    "offline":"§r§cThe server is offline, try again later.",
+    "soon":"§r§eThe server is in development, will soon be available to everyone.",
+    "action_try_again":"§r§cCould not perform this action, try again.",
+    "system_in_developement":"§r§eThis system is currently under development.",
+    "information_text":"§r§d§lVoxy Network\n§r§fYou are on §dqueue-1\n§fFollow us on Twitter\n§d@RedeVoxy\n§fJoin our Discord\n§ddiscord.gg/voxy\n§fVisit our website at\n§dredevoxy.com\n§fto purchase\n§fVIPs and more",
+    "information_vip":"§r§eYou can instantly enter the lobby server.\n§e * Click the slime ball to instantly connect."
   }
 }

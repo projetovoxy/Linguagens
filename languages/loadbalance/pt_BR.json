@@ -6,42 +6,42 @@
     "messages": {
         
     "hotbar": {
-      "jump_the_queue": "Entrar instantaneamente no servidor"
+      "jump_the_queue": "§r§dEntrar instantaneamente no servidor"
     },
         
     "npc": {
       "title": "Qual?",
-      "content": "Selecione em qual local você deseja ir!",
-      "format": "{place}\nClique para ir!",
-      "successnpc": "Você foi teleportado para a {place}.",
-      "libraryplace": "Biblioteca"
+      "content": "§r§fSelecione em qual local você deseja ir!",
+      "format": "{place}\n§r§8Clique para ir!",
+      "successnpc": "§r§eVocê foi teleportado para a {place}§e.",
+      "libraryplace": "§r§dBiblioteca"
     },
 
     "queue": {
-      "joinqueue": "Você entrou na fila para o servidor lobby ({0}/{1})",
-      "quitqueue": "Você saiu da fila para o servidor lobby.",
-      "inqueue": "Você está na posição {0}/{1} da fila!",
-      "successqueue": "Conectando ao servidor...",
-      "errorqueue": "Nenhum servidor lobby disponível no momento."
+      "joinqueue": "§r§eVocê entrou na fila para o servidor lobby §d({0}/{1})",
+      "quitqueue": "§r§cVocê saiu da fila para o servidor lobby.",
+      "inqueue": "§r§eVocê está na posição §d{0}/{1}§e da fila!",
+      "successqueue": "§r§eConectando ao servidor...",
+      "errorqueue": "§r§cNenhum servidor lobby disponível no momento."
     },
 
     "rank": {
-      "permission_information": "Você deve ser Gerente ou superior para utilizar este comando.",
-      "erro_args": "O nick ou rank não foram definidos.",
-      "erro_numeric": "O valor do rank deve ser númerico.",
-      "erro_player": "Jogador não esta online no servidor.",
-      "user_info": "Utilize /rank <jogador> <número>.",
-      "successcommand": "Você mudou o rank do jogador {player}.",
-      "change": "Seu rank foi alterado.\n * Entre novamente no servidor para receber todas as permissões corretamente."
+      "permission_information": "§r§cVocê deve ser Gerente ou superior para utilizar este comando.",
+      "erro_args": "§r§cO nick ou rank não foram definidos.",
+      "erro_numeric": "§r§cO valor do rank deve ser númerico.",
+      "erro_player": "§r§cJogador não esta online no servidor.",
+      "user_info": "§r§cUtilize /rank <jogador> <número>.",
+      "successcommand": "§r§eVocê mudou o rank do jogador §7{player}§e.",
+      "change": "§r§eSeu rank foi alterado.\n§e * Entre novamente no servidor para receber todas as permissões corretamente."
     },
-    "chat_disabled": "Você não pode falar no chat ou executar comandos no servidor de Balanceamento de carga.",
-    "isHere": "Você já está neste servidor.",
-    "maintenance": "O servidor está em manutenção, tente novamente mais tarde.",
-    "offline": "O servidor está offline, tente novamente mais tarde.",
-    "soon": "O servidor encontra-se em desenvolvimento, em breve estará disponivel a todos.",
-    "action_try_again": "Não foi possivel realizar está ação, tente novamente.",
-    "system_in_developement": "Este sistema atualmente encontra-se em desenvolvimento.",
-    "information_text": "Rede Voxy\nVocê está no FILA-1\n-\nSiga-nos no Twitter\n@RedeVoxy\n-\nParticipe do nosso Discord\ndiscord.gg/voxy\n-\nVisite nosso site em\nredevoxy.com\npara adquirir\nVIPs e mais",
-    "information_vip": "Você pode entrar instantaneamente no servidor lobby (clique na bola de slime para conectar-se)."
+    "chat_disabled": "§r§cVocê não pode falar no chat ou executar comandos no servidor de Balanceamento de carga.",
+    "isHere": "§r§eVocê já está neste servidor.",
+    "maintenance": "§r§cO servidor está em manutenção, tente novamente mais tarde.",
+    "offline": "§r§cO servidor está offline, tente novamente mais tarde.",
+    "soon": "§r§eO servidor encontra-se em desenvolvimento, em breve estará disponivel a todos.",
+    "action_try_again": "§r§cNão foi possivel realizar está ação, tente novamente.",
+    "system_in_developement": "§r§eEste sistema atualmente encontra-se em desenvolvimento.",
+    "information_text": "§r§d§lRede Voxy\n§r§fVocê está no §dfila-1\n§fSiga-nos no Twitter\n§d@RedeVoxy\n§fParticipe do nosso Discord\n§ddiscord.gg/voxy\n§fVisite nosso site em\n§dredevoxy.com\n§fpara adquirir\n§fVIPs e mais",
+    "information_vip": "§r§eVocê pode entrar instantaneamente no servidor lobby.\n§e * Clique na bola de slime para conectar-se instantaneamente."
   }
 }
